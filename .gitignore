@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+npm-shrinkwrap.json
+*.log
+*.gz
+
+yarn-error.log
+yarn.lock
+
+.nyc_output
+coverage
+
+benchmark/graphs
